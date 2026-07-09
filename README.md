@@ -53,11 +53,11 @@ This course teaches RAG generally on purpose — Modules 1–2 use neutral examp
 
 ## Progress
 
-**1 of 15 chapters complete** — Volume 3 underway.
+**2 of 15 chapters complete** — Volume 3 underway.
 
 | Module | Chapters | Status |
 |--------|----------|--------|
-| 1 — Foundations, Deepened | Ch 01–04 | 🔄 In Progress (Ch 01 ✅) |
+| 1 — Foundations, Deepened | Ch 01–04 | 🔄 In Progress (Ch 01–02 ✅) |
 | 2 — Retrieval Engineering | Ch 05–08 | 🔜 |
 | 3 — Structured, Multi-Modal, Domain-Specific RAG | Ch 09–11 | 🔜 |
 | 4 — Trustworthy, Evaluated, Production-Grade RAG | Ch 12–14 | 🔜 |
@@ -68,8 +68,8 @@ This course teaches RAG generally on purpose — Modules 1–2 use neutral examp
 | # | Chapter | Status |
 |---|---------|--------|
 | 01 | [RAG Architecture Deep Dive — From Naive to Production](./chapters/chapter-01-rag-architecture-deep-dive.md) | ✅ Complete |
-| 02 | Document Ingestion at Scale | 🔜 Next |
-| 03 | Chunking Strategies for Real Documents | 🔜 |
+| 02 | [Document Ingestion at Scale](./chapters/chapter-02-document-ingestion.md) | ✅ Complete |
+| 03 | Chunking Strategies for Real Documents | 🔜 Next |
 | 04 | Embedding Models — Choosing, Benchmarking, Domain Adaptation | 🔜 |
 | 05 | Sparse Retrieval — BM25, TF-IDF, and Keyword Search | 🔜 |
 | 06 | Dense Retrieval and Vector Search at Scale | 🔜 |
