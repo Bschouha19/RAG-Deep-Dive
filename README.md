@@ -53,11 +53,11 @@ This course teaches RAG generally on purpose — Modules 1–2 use neutral examp
 
 ## Progress
 
-**0 of 15 chapters complete** — Volume 3 starting.
+**1 of 15 chapters complete** — Volume 3 underway.
 
 | Module | Chapters | Status |
 |--------|----------|--------|
-| 1 — Foundations, Deepened | Ch 01–04 | 🔜 |
+| 1 — Foundations, Deepened | Ch 01–04 | 🔄 In Progress (Ch 01 ✅) |
 | 2 — Retrieval Engineering | Ch 05–08 | 🔜 |
 | 3 — Structured, Multi-Modal, Domain-Specific RAG | Ch 09–11 | 🔜 |
 | 4 — Trustworthy, Evaluated, Production-Grade RAG | Ch 12–14 | 🔜 |

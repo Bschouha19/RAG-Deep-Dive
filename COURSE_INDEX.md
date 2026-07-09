@@ -13,7 +13,7 @@
 
 ## Progress
 
-**0 of 15 chapters complete** — Volume 3 starting.
+**1 of 15 chapters complete** — Volume 3 underway.
 
 ---
 
@@ -30,8 +30,8 @@ This course teaches RAG generally — Modules 1 and 2 use neutral example domain
 
 | # | Chapter | File | Status | Key Skills |
 |---|---------|------|--------|-----------|
-| 01 | RAG Architecture Deep Dive — From Naive to Production | chapters/chapter-01-rag-architecture-deep-dive.md | 🔜 | Failure taxonomy, retrieval vs. generation quality, when RAG is (and isn't) the right architecture |
-| 02 | Document Ingestion at Scale | chapters/chapter-02-document-ingestion.md | 🔜 | PDF/HTML/DOCX parsing, OCR for scanned documents, ingestion pipeline design |
+| 01 | RAG Architecture Deep Dive — From Naive to Production | chapters/chapter-01-rag-architecture-deep-dive.md | ✅ Complete | Failure taxonomy, retrieval vs. generation quality, when RAG is (and isn't) the right architecture |
+| 02 | Document Ingestion at Scale | chapters/chapter-02-document-ingestion.md | 🔜 Next | PDF/HTML/DOCX parsing, OCR for scanned documents, ingestion pipeline design |
 | 03 | Chunking Strategies for Real Documents | chapters/chapter-03-chunking-strategies.md | 🔜 | Fixed/recursive/semantic chunking, structure-aware and table-aware chunking |
 | 04 | Embedding Models — Choosing, Benchmarking, Domain Adaptation | chapters/chapter-04-embedding-models.md | 🔜 | MTEB benchmarking, domain-adapted embeddings, dimensionality trade-offs |
 
@@ -137,4 +137,4 @@ Takes approximately 2 weeks part-time.
 
 ---
 
-*Last updated: 2026-07-09 — 0 of 15 chapters complete*
+*Last updated: 2026-07-09 — 1 of 15 chapters complete*
