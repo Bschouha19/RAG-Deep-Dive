@@ -53,12 +53,12 @@ This course teaches RAG generally on purpose — Modules 1–2 use neutral examp
 
 ## Progress
 
-**4 of 15 chapters complete** — Volume 3 underway. Module 1 complete.
+**5 of 15 chapters complete** — Volume 3 underway. Module 1 complete.
 
 | Module | Chapters | Status |
 |--------|----------|--------|
 | 1 — Foundations, Deepened | Ch 01–04 | ✅ Complete |
-| 2 — Retrieval Engineering | Ch 05–08 | 🔄 In Progress |
+| 2 — Retrieval Engineering | Ch 05–08 | 🔄 In Progress (Ch 05 ✅) |
 | 3 — Structured, Multi-Modal, Domain-Specific RAG | Ch 09–11 | 🔜 |
 | 4 — Trustworthy, Evaluated, Production-Grade RAG | Ch 12–14 | 🔜 |
 | 5 — Capstone | Ch 15 | 🔜 |
@@ -71,8 +71,8 @@ This course teaches RAG generally on purpose — Modules 1–2 use neutral examp
 | 02 | [Document Ingestion at Scale](./chapters/chapter-02-document-ingestion.md) | ✅ Complete |
 | 03 | [Chunking Strategies for Real Documents](./chapters/chapter-03-chunking-strategies.md) | ✅ Complete |
 | 04 | [Embedding Models — Choosing, Benchmarking, Domain Adaptation](./chapters/chapter-04-embedding-models.md) | ✅ Complete |
-| 05 | Sparse Retrieval — BM25, TF-IDF, and Keyword Search | 🔜 Next |
-| 06 | Dense Retrieval and Vector Search at Scale | 🔜 |
+| 05 | [Sparse Retrieval — BM25, TF-IDF, and Keyword Search](./chapters/chapter-05-sparse-retrieval.md) | ✅ Complete |
+| 06 | Dense Retrieval and Vector Search at Scale | 🔜 Next |
 | 07 | Hybrid Search — Combining Sparse and Dense | 🔜 |
 | 08 | Re-ranking and Advanced Retrieval | 🔜 |
 | 09 | RAG Over Structured and Semi-Structured Documents | 🔜 |

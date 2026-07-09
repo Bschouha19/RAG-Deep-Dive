@@ -13,7 +13,7 @@
 
 ## Progress
 
-**4 of 15 chapters complete** — Volume 3 underway. Module 1 (Foundations, Deepened) is now complete.
+**5 of 15 chapters complete** — Volume 3 underway. Module 1 (Foundations, Deepened) is complete; Module 2 (Retrieval Engineering) underway.
 
 ---
 
@@ -46,8 +46,8 @@ This course teaches RAG generally — Modules 1 and 2 use neutral example domain
 
 | # | Chapter | File | Status | Key Skills |
 |---|---------|------|--------|-----------|
-| 05 | Sparse Retrieval — BM25, TF-IDF, and Keyword Search | chapters/chapter-05-sparse-retrieval.md | 🔜 Next | Exact-term retrieval, why semantic search alone fails on names/codes/dosages |
-| 06 | Dense Retrieval and Vector Search at Scale | chapters/chapter-06-dense-retrieval.md | 🔜 | ANN indexing (HNSW/IVF), metadata filtering, pgvector/Qdrant production patterns |
+| 05 | Sparse Retrieval — BM25, TF-IDF, and Keyword Search | chapters/chapter-05-sparse-retrieval.md | ✅ Complete | Exact-term retrieval, why semantic search alone fails on names/codes/dosages |
+| 06 | Dense Retrieval and Vector Search at Scale | chapters/chapter-06-dense-retrieval.md | 🔜 Next | ANN indexing (HNSW/IVF), metadata filtering, pgvector/Qdrant production patterns |
 | 07 | Hybrid Search — Combining Sparse and Dense | chapters/chapter-07-hybrid-search.md | 🔜 | Reciprocal Rank Fusion, score normalization |
 | 08 | Re-ranking and Advanced Retrieval | chapters/chapter-08-reranking-advanced-retrieval.md | 🔜 | Cross-encoder and LLM re-ranking, HyDE, multi-query, step-back prompting |
 
@@ -137,4 +137,4 @@ Takes approximately 2 weeks part-time.
 
 ---
 
-*Last updated: 2026-07-10 — 4 of 15 chapters complete*
+*Last updated: 2026-07-10 — 5 of 15 chapters complete*
