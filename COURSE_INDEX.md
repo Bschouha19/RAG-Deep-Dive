@@ -13,7 +13,7 @@
 
 ## Progress
 
-**3 of 15 chapters complete** — Volume 3 underway.
+**4 of 15 chapters complete** — Volume 3 underway. Module 1 (Foundations, Deepened) is now complete.
 
 ---
 
@@ -33,7 +33,7 @@ This course teaches RAG generally — Modules 1 and 2 use neutral example domain
 | 01 | RAG Architecture Deep Dive — From Naive to Production | chapters/chapter-01-rag-architecture-deep-dive.md | ✅ Complete | Failure taxonomy, retrieval vs. generation quality, when RAG is (and isn't) the right architecture |
 | 02 | Document Ingestion at Scale | chapters/chapter-02-document-ingestion.md | ✅ Complete | PDF/HTML/DOCX parsing, OCR for scanned documents, ingestion pipeline design |
 | 03 | Chunking Strategies for Real Documents | chapters/chapter-03-chunking-strategies.md | ✅ Complete | Fixed/recursive/semantic chunking, structure-aware and table-aware chunking |
-| 04 | Embedding Models — Choosing, Benchmarking, Domain Adaptation | chapters/chapter-04-embedding-models.md | 🔜 Next | MTEB benchmarking, domain-adapted embeddings, dimensionality trade-offs |
+| 04 | Embedding Models — Choosing, Benchmarking, Domain Adaptation | chapters/chapter-04-embedding-models.md | ✅ Complete | MTEB benchmarking, domain-adapted embeddings, dimensionality trade-offs |
 
 **Module 1 Learning Goal:** Understand exactly where naive RAG breaks, and build an ingestion + chunking + embedding pipeline that doesn't destroy document structure before retrieval ever gets a chance.
 
@@ -46,7 +46,7 @@ This course teaches RAG generally — Modules 1 and 2 use neutral example domain
 
 | # | Chapter | File | Status | Key Skills |
 |---|---------|------|--------|-----------|
-| 05 | Sparse Retrieval — BM25, TF-IDF, and Keyword Search | chapters/chapter-05-sparse-retrieval.md | 🔜 | Exact-term retrieval, why semantic search alone fails on names/codes/dosages |
+| 05 | Sparse Retrieval — BM25, TF-IDF, and Keyword Search | chapters/chapter-05-sparse-retrieval.md | 🔜 Next | Exact-term retrieval, why semantic search alone fails on names/codes/dosages |
 | 06 | Dense Retrieval and Vector Search at Scale | chapters/chapter-06-dense-retrieval.md | 🔜 | ANN indexing (HNSW/IVF), metadata filtering, pgvector/Qdrant production patterns |
 | 07 | Hybrid Search — Combining Sparse and Dense | chapters/chapter-07-hybrid-search.md | 🔜 | Reciprocal Rank Fusion, score normalization |
 | 08 | Re-ranking and Advanced Retrieval | chapters/chapter-08-reranking-advanced-retrieval.md | 🔜 | Cross-encoder and LLM re-ranking, HyDE, multi-query, step-back prompting |
@@ -137,4 +137,4 @@ Takes approximately 2 weeks part-time.
 
 ---
 
-*Last updated: 2026-07-10 — 3 of 15 chapters complete*
+*Last updated: 2026-07-10 — 4 of 15 chapters complete*
