@@ -63,7 +63,27 @@ This course teaches RAG generally on purpose — Modules 1–2 use neutral examp
 | 4 — Trustworthy, Evaluated, Production-Grade RAG | Ch 12–14 | 🔜 |
 | 5 — Capstone | Ch 15 | 🔜 |
 
-See [COURSE_INDEX.md](./COURSE_INDEX.md) for the full chapter list, learning goals, and dependency map.
+### Chapter-by-Chapter
+
+| # | Chapter | Status |
+|---|---------|--------|
+| 01 | [RAG Architecture Deep Dive — From Naive to Production](./chapters/chapter-01-rag-architecture-deep-dive.md) | ✅ Complete |
+| 02 | Document Ingestion at Scale | 🔜 Next |
+| 03 | Chunking Strategies for Real Documents | 🔜 |
+| 04 | Embedding Models — Choosing, Benchmarking, Domain Adaptation | 🔜 |
+| 05 | Sparse Retrieval — BM25, TF-IDF, and Keyword Search | 🔜 |
+| 06 | Dense Retrieval and Vector Search at Scale | 🔜 |
+| 07 | Hybrid Search — Combining Sparse and Dense | 🔜 |
+| 08 | Re-ranking and Advanced Retrieval | 🔜 |
+| 09 | RAG Over Structured and Semi-Structured Documents | 🔜 |
+| 10 | Multi-Modal RAG | 🔜 |
+| 11 | Graph RAG and Knowledge Graphs | 🔜 |
+| 12 | RAG Evaluation | 🔜 |
+| 13 | Trustworthy RAG for High-Stakes Domains | 🔜 |
+| 14 | Production RAG Architecture and Operations | 🔜 |
+| 15 | Capstone — Production Document Intelligence RAG System | 🔜 |
+
+See [COURSE_INDEX.md](./COURSE_INDEX.md) for learning goals and the full chapter dependency map.
 
 ---
 
