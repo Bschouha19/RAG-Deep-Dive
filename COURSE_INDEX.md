@@ -13,7 +13,7 @@
 
 ## Progress
 
-**12 of 15 chapters complete** — Volume 3 underway. Modules 1, 2, and 3 are all complete; Module 4 (Trustworthy, Evaluated, Production-Grade RAG) underway.
+**13 of 15 chapters complete** — Volume 3 underway. Modules 1, 2, and 3 are all complete; Module 4 (Trustworthy, Evaluated, Production-Grade RAG) underway.
 
 ---
 
@@ -78,8 +78,8 @@ This course teaches RAG generally — Modules 1 and 2 use neutral example domain
 | # | Chapter | File | Status | Key Skills |
 |---|---------|------|--------|-----------|
 | 12 | RAG Evaluation | chapters/chapter-12-rag-evaluation.md | ✅ Complete | RAGAS-style metrics, building a regression test set, faithfulness/precision/recall measurement |
-| 13 | Trustworthy RAG for High-Stakes Domains | chapters/chapter-13-trustworthy-rag.md | 🔜 Next | Grounding, citation enforcement, hallucination mitigation, refusal behavior, human-in-the-loop escalation, prompt-injection-via-document defense |
-| 14 | Production RAG Architecture and Operations | chapters/chapter-14-production-rag-ops.md | 🔜 | Incremental re-indexing, embedding/model versioning, retrieval-quality monitoring, agentic RAG |
+| 13 | Trustworthy RAG for High-Stakes Domains | chapters/chapter-13-trustworthy-rag.md | ✅ Complete | Grounding, citation enforcement, hallucination mitigation, refusal behavior, human-in-the-loop escalation, prompt-injection-via-document defense |
+| 14 | Production RAG Architecture and Operations | chapters/chapter-14-production-rag-ops.md | 🔜 Next | Incremental re-indexing, embedding/model versioning, retrieval-quality monitoring, agentic RAG |
 
 **Module 4 Learning Goal:** Build a RAG system that knows what it doesn't know, cites what it says, degrades safely, and stays correct as the underlying corpus and models change over time.
 
@@ -137,4 +137,4 @@ Takes approximately 2 weeks part-time.
 
 ---
 
-*Last updated: 2026-07-10 — 12 of 15 chapters complete*
+*Last updated: 2026-07-10 — 13 of 15 chapters complete*
