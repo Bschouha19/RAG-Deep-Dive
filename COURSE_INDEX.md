@@ -13,7 +13,7 @@
 
 ## Progress
 
-**10 of 15 chapters complete** — Volume 3 underway. Modules 1 and 2 are complete; Module 3 (Structured, Multi-Modal, and Domain-Specific RAG) underway.
+**11 of 15 chapters complete** — Volume 3 underway. Modules 1, 2, and 3 are all complete; Module 4 (Trustworthy, Evaluated, Production-Grade RAG) begins next.
 
 ---
 
@@ -64,7 +64,7 @@ This course teaches RAG generally — Modules 1 and 2 use neutral example domain
 |---|---------|------|--------|-----------|
 | 09 | RAG Over Structured and Semi-Structured Documents | chapters/chapter-09-structured-documents.md | ✅ Complete | Table extraction, section-aware parsing, key-value document structure, regulatory document patterns |
 | 10 | Multi-Modal RAG | chapters/chapter-10-multimodal-rag.md | ✅ Complete | Image/chart retrieval, table-as-image handling, document layout understanding |
-| 11 | Graph RAG and Knowledge Graphs | chapters/chapter-11-graph-rag.md | 🔜 Next | Entity/relationship extraction, cross-document reasoning, graph-augmented retrieval |
+| 11 | Graph RAG and Knowledge Graphs | chapters/chapter-11-graph-rag.md | ✅ Complete | Entity/relationship extraction, cross-document reasoning, graph-augmented retrieval |
 
 **Module 3 Learning Goal:** Handle real structured documents — tables, sections, cross-references — without the naive "chunk everything as flat text" approach that silently destroys the information that matters most.
 
@@ -77,7 +77,7 @@ This course teaches RAG generally — Modules 1 and 2 use neutral example domain
 
 | # | Chapter | File | Status | Key Skills |
 |---|---------|------|--------|-----------|
-| 12 | RAG Evaluation | chapters/chapter-12-rag-evaluation.md | 🔜 | RAGAS-style metrics, building a regression test set, faithfulness/precision/recall measurement |
+| 12 | RAG Evaluation | chapters/chapter-12-rag-evaluation.md | 🔜 Next | RAGAS-style metrics, building a regression test set, faithfulness/precision/recall measurement |
 | 13 | Trustworthy RAG for High-Stakes Domains | chapters/chapter-13-trustworthy-rag.md | 🔜 | Grounding, citation enforcement, hallucination mitigation, refusal behavior, human-in-the-loop escalation, prompt-injection-via-document defense |
 | 14 | Production RAG Architecture and Operations | chapters/chapter-14-production-rag-ops.md | 🔜 | Incremental re-indexing, embedding/model versioning, retrieval-quality monitoring, agentic RAG |
 
@@ -137,4 +137,4 @@ Takes approximately 2 weeks part-time.
 
 ---
 
-*Last updated: 2026-07-10 — 10 of 15 chapters complete*
+*Last updated: 2026-07-10 — 11 of 15 chapters complete*

@@ -53,13 +53,13 @@ This course teaches RAG generally on purpose — Modules 1–2 use neutral examp
 
 ## Progress
 
-**10 of 15 chapters complete** — Volume 3 underway. Modules 1 and 2 complete.
+**11 of 15 chapters complete** — Volume 3 underway. Modules 1, 2, and 3 complete.
 
 | Module | Chapters | Status |
 |--------|----------|--------|
 | 1 — Foundations, Deepened | Ch 01–04 | ✅ Complete |
 | 2 — Retrieval Engineering | Ch 05–08 | ✅ Complete |
-| 3 — Structured, Multi-Modal, Domain-Specific RAG | Ch 09–11 | 🔄 In Progress (Ch 09–10 ✅) |
+| 3 — Structured, Multi-Modal, Domain-Specific RAG | Ch 09–11 | ✅ Complete |
 | 4 — Trustworthy, Evaluated, Production-Grade RAG | Ch 12–14 | 🔜 |
 | 5 — Capstone | Ch 15 | 🔜 |
 
@@ -77,8 +77,8 @@ This course teaches RAG generally on purpose — Modules 1–2 use neutral examp
 | 08 | [Re-ranking and Advanced Retrieval](./chapters/chapter-08-reranking-advanced-retrieval.md) | ✅ Complete |
 | 09 | [RAG Over Structured and Semi-Structured Documents](./chapters/chapter-09-structured-documents.md) | ✅ Complete |
 | 10 | [Multi-Modal RAG](./chapters/chapter-10-multimodal-rag.md) | ✅ Complete |
-| 11 | Graph RAG and Knowledge Graphs | 🔜 Next |
-| 12 | RAG Evaluation | 🔜 |
+| 11 | [Graph RAG and Knowledge Graphs](./chapters/chapter-11-graph-rag.md) | ✅ Complete |
+| 12 | RAG Evaluation | 🔜 Next |
 | 13 | Trustworthy RAG for High-Stakes Domains | 🔜 |
 | 14 | Production RAG Architecture and Operations | 🔜 |
 | 15 | Capstone — Production Document Intelligence RAG System | 🔜 |
