@@ -13,7 +13,7 @@
 
 ## Progress
 
-**8 of 15 chapters complete** — Volume 3 underway. Modules 1 and 2 (Foundations, Deepened; Retrieval Engineering) are both complete.
+**9 of 15 chapters complete** — Volume 3 underway. Modules 1 and 2 are complete; Module 3 (Structured, Multi-Modal, and Domain-Specific RAG) underway.
 
 ---
 
@@ -62,8 +62,8 @@ This course teaches RAG generally — Modules 1 and 2 use neutral example domain
 
 | # | Chapter | File | Status | Key Skills |
 |---|---------|------|--------|-----------|
-| 09 | RAG Over Structured and Semi-Structured Documents | chapters/chapter-09-structured-documents.md | 🔜 Next | Table extraction, section-aware parsing, key-value document structure, regulatory document patterns |
-| 10 | Multi-Modal RAG | chapters/chapter-10-multimodal-rag.md | 🔜 | Image/chart retrieval, table-as-image handling, document layout understanding |
+| 09 | RAG Over Structured and Semi-Structured Documents | chapters/chapter-09-structured-documents.md | ✅ Complete | Table extraction, section-aware parsing, key-value document structure, regulatory document patterns |
+| 10 | Multi-Modal RAG | chapters/chapter-10-multimodal-rag.md | 🔜 Next | Image/chart retrieval, table-as-image handling, document layout understanding |
 | 11 | Graph RAG and Knowledge Graphs | chapters/chapter-11-graph-rag.md | 🔜 | Entity/relationship extraction, cross-document reasoning, graph-augmented retrieval |
 
 **Module 3 Learning Goal:** Handle real structured documents — tables, sections, cross-references — without the naive "chunk everything as flat text" approach that silently destroys the information that matters most.
@@ -137,4 +137,4 @@ Takes approximately 2 weeks part-time.
 
 ---
 
-*Last updated: 2026-07-10 — 8 of 15 chapters complete*
+*Last updated: 2026-07-10 — 9 of 15 chapters complete*
