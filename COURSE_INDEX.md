@@ -13,7 +13,7 @@
 
 ## Progress
 
-**13 of 15 chapters complete** — Volume 3 underway. Modules 1, 2, and 3 are all complete; Module 4 (Trustworthy, Evaluated, Production-Grade RAG) underway.
+**14 of 15 chapters complete** — Volume 3 underway. Modules 1, 2, 3, and 4 are all complete; the Chapter 15 Capstone remains.
 
 ---
 
@@ -79,7 +79,7 @@ This course teaches RAG generally — Modules 1 and 2 use neutral example domain
 |---|---------|------|--------|-----------|
 | 12 | RAG Evaluation | chapters/chapter-12-rag-evaluation.md | ✅ Complete | RAGAS-style metrics, building a regression test set, faithfulness/precision/recall measurement |
 | 13 | Trustworthy RAG for High-Stakes Domains | chapters/chapter-13-trustworthy-rag.md | ✅ Complete | Grounding, citation enforcement, hallucination mitigation, refusal behavior, human-in-the-loop escalation, prompt-injection-via-document defense |
-| 14 | Production RAG Architecture and Operations | chapters/chapter-14-production-rag-ops.md | 🔜 Next | Incremental re-indexing, embedding/model versioning, retrieval-quality monitoring, agentic RAG |
+| 14 | Production RAG Architecture and Operations | chapters/chapter-14-production-rag-ops.md | ✅ Complete | Incremental re-indexing, embedding/model versioning, retrieval-quality monitoring, agentic RAG |
 
 **Module 4 Learning Goal:** Build a RAG system that knows what it doesn't know, cites what it says, degrades safely, and stays correct as the underlying corpus and models change over time.
 
@@ -92,7 +92,7 @@ This course teaches RAG generally — Modules 1 and 2 use neutral example domain
 
 | # | Chapter | File | Status | Key Skills |
 |---|---------|------|--------|-----------|
-| 15 | Capstone — Production Document Intelligence RAG System | chapters/chapter-15-capstone.md | 🔜 | All of Volume 3: ingestion, hybrid retrieval, re-ranking, structured-document handling, evaluation, trustworthy grounding, deployment |
+| 15 | Capstone — Production Document Intelligence RAG System | chapters/chapter-15-capstone.md | 🔜 Next | All of Volume 3: ingestion, hybrid retrieval, re-ranking, structured-document handling, evaluation, trustworthy grounding, deployment |
 
 **Capstone System:** A Document Intelligence RAG service over a corpus of structured, regulated documents — hybrid search, cross-encoder re-ranking, table-aware chunking, mandatory citations, a passing evaluation harness, and a production deployment (reusing Volume 2's deployment patterns). Explicitly designed so a medical SPC corpus, a legal contract set, or a financial filings archive all fit the same architecture.
 
@@ -137,4 +137,4 @@ Takes approximately 2 weeks part-time.
 
 ---
 
-*Last updated: 2026-07-10 — 13 of 15 chapters complete*
+*Last updated: 2026-07-10 — 14 of 15 chapters complete*
