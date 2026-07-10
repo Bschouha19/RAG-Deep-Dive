@@ -53,7 +53,7 @@ This course teaches RAG generally on purpose — Modules 1–2 use neutral examp
 
 ## Progress
 
-**14 of 15 chapters complete** — Volume 3 underway. Modules 1–4 complete; only the Capstone remains.
+**15 of 15 chapters complete — Volume 3 is finished.** All five modules, including the Capstone, are done.
 
 | Module | Chapters | Status |
 |--------|----------|--------|
@@ -61,6 +61,7 @@ This course teaches RAG generally on purpose — Modules 1–2 use neutral examp
 | 2 — Retrieval Engineering | Ch 05–08 | ✅ Complete |
 | 3 — Structured, Multi-Modal, Domain-Specific RAG | Ch 09–11 | ✅ Complete |
 | 4 — Trustworthy, Evaluated, Production-Grade RAG | Ch 12–14 | ✅ Complete |
+| 5 — Capstone | Ch 15 | ✅ Complete |
 | 5 — Capstone | Ch 15 | 🔜 |
 
 ### Chapter-by-Chapter
@@ -81,7 +82,7 @@ This course teaches RAG generally on purpose — Modules 1–2 use neutral examp
 | 12 | [RAG Evaluation](./chapters/chapter-12-rag-evaluation.md) | ✅ Complete |
 | 13 | [Trustworthy RAG for High-Stakes Domains](./chapters/chapter-13-trustworthy-rag.md) | ✅ Complete |
 | 14 | [Production RAG Architecture and Operations](./chapters/chapter-14-production-rag-ops.md) | ✅ Complete |
-| 15 | Capstone — Production Document Intelligence RAG System | 🔜 Next |
+| 15 | [Capstone — Production Document Intelligence RAG System](./chapters/chapter-15-capstone.md) | ✅ Complete |
 
 See [COURSE_INDEX.md](./COURSE_INDEX.md) for learning goals and the full chapter dependency map.
 
@@ -111,7 +112,7 @@ Every reference document is open-in-second-tab material — built for lookup, no
 |--------|-------|--------|-----------|
 | 1 | AI Engineering — From Zero to Production | ✅ Complete (20 chapters) | [AI-Engineering-Handbook](https://github.com/Bschouha19/AI-Engineering-Handbook) |
 | 2 | MCP Engineering | ✅ Complete (15 chapters) | [MCP-Engineering](https://github.com/Bschouha19/MCP-Engineering) |
-| 3 | RAG Deep Dive | 🔄 In Progress | [RAG-Deep-Dive](https://github.com/Bschouha19/RAG-Deep-Dive) |
+| 3 | RAG Deep Dive | ✅ Complete (15 chapters) | [RAG-Deep-Dive](https://github.com/Bschouha19/RAG-Deep-Dive) |
 | 4 | AI Agent Engineering | 🔜 Planned | — |
 | 5 | n8n AI Workflow Automation | 🔜 Planned | — |
 | 6 | Vector Database Engineering | 🔜 Planned | — |
@@ -124,4 +125,4 @@ Every reference document is open-in-second-tab material — built for lookup, no
 
 ---
 
-*Volume 3 started July 2026. Target: 15 chapters.*
+*Volume 3 started and completed July 2026. All 15 chapters finished.*

@@ -13,7 +13,7 @@
 
 ## Progress
 
-**14 of 15 chapters complete** — Volume 3 underway. Modules 1, 2, 3, and 4 are all complete; the Chapter 15 Capstone remains.
+**15 of 15 chapters complete — Volume 3 is complete.** All five modules, including the Capstone, are finished.
 
 ---
 
@@ -92,7 +92,7 @@ This course teaches RAG generally — Modules 1 and 2 use neutral example domain
 
 | # | Chapter | File | Status | Key Skills |
 |---|---------|------|--------|-----------|
-| 15 | Capstone — Production Document Intelligence RAG System | chapters/chapter-15-capstone.md | 🔜 Next | All of Volume 3: ingestion, hybrid retrieval, re-ranking, structured-document handling, evaluation, trustworthy grounding, deployment |
+| 15 | Capstone — Production Document Intelligence RAG System | chapters/chapter-15-capstone.md | ✅ Complete | All of Volume 3: ingestion, hybrid retrieval, re-ranking, structured-document handling, evaluation, trustworthy grounding, deployment |
 
 **Capstone System:** A Document Intelligence RAG service over a corpus of structured, regulated documents — hybrid search, cross-encoder re-ranking, table-aware chunking, mandatory citations, a passing evaluation harness, and a production deployment (reusing Volume 2's deployment patterns). Explicitly designed so a medical SPC corpus, a legal contract set, or a financial filings archive all fit the same architecture.
 
@@ -137,4 +137,4 @@ Takes approximately 2 weeks part-time.
 
 ---
 
-*Last updated: 2026-07-10 — 14 of 15 chapters complete*
+*Last updated: 2026-07-10 — 15 of 15 chapters complete. Volume 3 is finished.*
