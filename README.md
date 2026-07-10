@@ -53,13 +53,13 @@ This course teaches RAG generally on purpose — Modules 1–2 use neutral examp
 
 ## Progress
 
-**9 of 15 chapters complete** — Volume 3 underway. Modules 1 and 2 complete.
+**10 of 15 chapters complete** — Volume 3 underway. Modules 1 and 2 complete.
 
 | Module | Chapters | Status |
 |--------|----------|--------|
 | 1 — Foundations, Deepened | Ch 01–04 | ✅ Complete |
 | 2 — Retrieval Engineering | Ch 05–08 | ✅ Complete |
-| 3 — Structured, Multi-Modal, Domain-Specific RAG | Ch 09–11 | 🔄 In Progress (Ch 09 ✅) |
+| 3 — Structured, Multi-Modal, Domain-Specific RAG | Ch 09–11 | 🔄 In Progress (Ch 09–10 ✅) |
 | 4 — Trustworthy, Evaluated, Production-Grade RAG | Ch 12–14 | 🔜 |
 | 5 — Capstone | Ch 15 | 🔜 |
 
@@ -76,8 +76,8 @@ This course teaches RAG generally on purpose — Modules 1–2 use neutral examp
 | 07 | [Hybrid Search — Combining Sparse and Dense](./chapters/chapter-07-hybrid-search.md) | ✅ Complete |
 | 08 | [Re-ranking and Advanced Retrieval](./chapters/chapter-08-reranking-advanced-retrieval.md) | ✅ Complete |
 | 09 | [RAG Over Structured and Semi-Structured Documents](./chapters/chapter-09-structured-documents.md) | ✅ Complete |
-| 10 | Multi-Modal RAG | 🔜 Next |
-| 11 | Graph RAG and Knowledge Graphs | 🔜 |
+| 10 | [Multi-Modal RAG](./chapters/chapter-10-multimodal-rag.md) | ✅ Complete |
+| 11 | Graph RAG and Knowledge Graphs | 🔜 Next |
 | 12 | RAG Evaluation | 🔜 |
 | 13 | Trustworthy RAG for High-Stakes Domains | 🔜 |
 | 14 | Production RAG Architecture and Operations | 🔜 |
